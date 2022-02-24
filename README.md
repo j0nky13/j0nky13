@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @j0nky13
-- I’m interested in a lot of things
-- I’m currently learning javascript
-- I’m looking to collaborate on anything to help me progress
+- Let's collaborate.
 - 📫 Reach me on linkedin
 
 <!---
